@@ -1,8 +1,18 @@
-# React + Vite
+# Context Store
+Bu proje, React ile geliştirilmiş bir alışveriş uygulamasıdır.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Özellikler
+Ürün Listesi: Tüm ürünlerin listelendiği bir sayfa.
+Kategori Sayfası: Ürünler belirli kategorilere ayrılarak listelenir.
+Sepet Sayfası: Sepete eklenen ürünlerin görüntülendiği bir alan.
+Aynı ürün tekrar eklenirse, ürünün miktarı artırılır.
+Toplam ürün miktarı ve fiyatları, bir özet kartında gösterilir.
+Boş Sepet: Sepet boş olduğunda kullanıcı ürünler sayfasına yönlendirilir.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Kullanılan Teknolojiler
+React: Bileşen tabanlı kullanıcı arayüzü geliştirmek için.
+JavaScript​: Uygulama mantığını ve dinamik işlevselliği sağlamak için.
+HTML ve JSX: React içinde HTML benzeri yapı kullanımı.
+CSS
+# Ekran Görüntüsü
+![İsimsiz video ‐ Clipchamp ile yapıldı (9)](https://github.com/user-attachments/assets/fac2bc03-3ea7-4f2a-940f-d5818ed77623)
